@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Cobwebblox, if you want you can call me Emme
+- 👀 I’m interested in programing, gaming and electronics
+- 🌱 I’m currently learning visual scripting
+- 📫 How to reach me: email, discord, or twitter
+- email: cobwebblox@outlook.com
+- discord: Cobwebblox#5739
+- twitter: @cobwebblox
