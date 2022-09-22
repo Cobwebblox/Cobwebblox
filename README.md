@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Cobwebblox, if you want you can call me Emme
-- 👀 I’m interested in programing, gaming and electronics
-- 🌱 I’m currently learning visual scripting
-- 📫 How to reach me: email, discord, or twitter
+- 👋 Hi, I’m @Cobwebblox, if you want you can refer to me as "Emme".
+- 👀 I’m interested in programing, gaming and electronics.
+- 🌱 I’m currently learning visual scripting and python for pico.
+- 💾 I run a nas (omv) with docker (portainer, homer, grafana) on a pi 3b+
+- 👨‍💻 I am in the making of a pico temp/co2 sensor to Grafana.
+- 📫 How to reach me: email, discord, or twitter.
 - email: cobwebblox@outlook.com
 - discord: Cobwebblox#5739
 - twitter: @cobwebblox
